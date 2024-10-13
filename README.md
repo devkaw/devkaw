@@ -1,9 +1,9 @@
 <h1 align="center">E aí? 👋, Sou Kadu Alves Wanderley</h1>
 <h3 align="center">Ainda não decidi as minhas linguagens, apenas um dev iniciante.</h3>
 
-- 🌱 Atualmente, estou aprendendo sobre **Python**
+- 🌱 Atualmente, estou aprendendo sobre **Javascript**
 
-- 💬 Pode me perguntar sobre **estruturas de repetição.**
+- 💬 Pode me perguntar sobre **TUDO**
 
 - 📫 Pode me encontrar no meu email: **kaduoxz@gmail.com**
 
